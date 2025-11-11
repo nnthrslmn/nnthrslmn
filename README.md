@@ -2,6 +2,10 @@
 
 ---
 
+_"Building smart apps that blend AI, design, and code."_  
+
+---
+
 Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning ideas into smart, useful, and beautifully designed applications.
 
 ---
@@ -33,11 +37,17 @@ Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning i
 ---
 
 ### 🌍 Featured Projects  
-🔹 [AI Job Application Assistant](https://github.com/nnthrsImn/ai-job-application-assistant) – AI-powered tool to assist with job applications and coding feedback  
-🔹 [Annetasks](https://github.com/nnthrsImn/Annetasks) – To-Do list app with dark mode, local storage, and animated backgrounds  
-🔹 [Currency Converter](https://github.com/nnthrsImn/currency-converter) – Real-time conversion app using API integration  
-🔹 [Budgeting App](https://github.com/nnthrsImn/budgeting-app) – Envelope-style budgeting system with custom UI  
-🔹 [Bug Reporter](https://github.com/nnthrsImn/bug-reporter) – Simple web-based issue tracker  
+🔹 [AI Job Application Assistant](https://github.com/nnthrslmn/ai-job-application-assistant) – AI-powered tool to assist with job applications and coding feedback  
+🔹 [Annetasks](https://github.com/nnthrslmn/Annetasks) – To-Do list app with dark mode, local storage, and animated backgrounds  
+🔹 [Currency Converter](https://github.com/nnthrslmn/currency-converter) – Real-time conversion app using API integration  
+🔹 [Budgeting App](https://github.com/nnthrslmn/budgeting-app) – Envelope-style budgeting system with custom UI  
+🔹 [Bug Reporter](https://github.com/nnthrslmn/bug-reporter) – Simple web-based issue tracker  
+
+---
+
+### 📊 GitHub Stats
+![Anne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnthrslmn&show_icons=true&theme=rose_pine)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nnthrslmn&layout=compact&theme=rose_pine)
 
 ---
 
