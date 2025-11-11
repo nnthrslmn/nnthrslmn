@@ -1,23 +1,11 @@
 ![banner](https://raw.githubusercontent.com/nnthrslmn/nnthrslmn/refs/heads/main/Untitled.gif)
 
+Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning ideas into smart, useful, and beautifully designed applications.
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 🌱 About Me
-- 🎨 Front-End Developer passionate about design & code
-- 🧠 Currently learning **Python** and exploring backend concepts
-- 🚀 Love building mini-projects that make life easier
-
-## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmanannetheresep@gmail.com)
-
-# 🍒 Anne's GitHub
-
-Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning ideas into smart, useful, and beautifully designed applications.
-
----
 
 ### 🧠 About Me  
 🌷 I bridge creativity and code — blending clean design with practical functionality.  
@@ -25,6 +13,12 @@ Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning i
 ✨ Experienced in **HTML, CSS, JavaScript**, and front-end development.  
 🚀 Exploring backend systems and automation tools to enhance developer productivity.  
 🎨 I love crafting intuitive, visually appealing interfaces that make digital life easier.
+
+---
+
+## 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmanannetheresep@gmail.com)
+💬 Open to remote collaborations and AI-driven web projects!
 
 ---
 
@@ -45,8 +39,3 @@ Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning i
 🔹 [Bug Reporter](https://github.com/nnthrsImn/bug-reporter) – Simple web-based issue tracker  
 
 ---
-
-### 📫 Connect with Me  
-📧 **[Email Me](mailto:elmanannetheresep@gmail.com)**  
-🐙 **GitHub:** [@nnthrsImn](https://github.com/nnthrsImn)  
-💬 Open to remote collaborations and AI-driven web projects!
