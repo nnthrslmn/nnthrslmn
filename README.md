@@ -13,12 +13,12 @@ Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning i
 ✨ Experienced in **HTML, CSS, JavaScript**, and front-end development.  
 🚀 Exploring backend systems and automation tools to enhance developer productivity.  
 🎨 I love crafting intuitive, visually appealing interfaces that make digital life easier.
+💬 Open to remote collaborations and AI-driven web projects!
 
 ---
 
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmanannetheresep@gmail.com)
-💬 Open to remote collaborations and AI-driven web projects!
 
 ---
 
