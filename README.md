@@ -12,3 +12,41 @@
 
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmanannetheresep@gmail.com)
+
+# 🍒 Anne's GitHub
+
+Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning ideas into smart, useful, and beautifully designed applications.
+
+---
+
+### 🧠 About Me  
+🌷 I bridge creativity and code — blending clean design with practical functionality.  
+💻 Currently mastering **Python** and building **AI-assisted web applications**.  
+✨ Experienced in **HTML, CSS, JavaScript**, and front-end development.  
+🚀 Exploring backend systems and automation tools to enhance developer productivity.  
+🎨 I love crafting intuitive, visually appealing interfaces that make digital life easier.
+
+---
+
+### 🧩 Tech Stack  
+**Languages:** Python, JavaScript, C (Arduino)  
+**Web:** HTML5, CSS3, Responsive Design  
+**AI & Automation:** GitHub Copilot, AI-assisted code generation  
+**Tools:** VS Code, Git, GitHub  
+**Soft Skills:** Problem-solving, creativity, adaptability, time management  
+
+---
+
+### 🌍 Featured Projects  
+🔹 [AI Job Application Assistant](https://github.com/nnthrsImn/ai-job-application-assistant) – AI-powered tool to assist with job applications and coding feedback  
+🔹 [Annetasks](https://github.com/nnthrsImn/Annetasks) – To-Do list app with dark mode, local storage, and animated backgrounds  
+🔹 [Currency Converter](https://github.com/nnthrsImn/currency-converter) – Real-time conversion app using API integration  
+🔹 [Budgeting App](https://github.com/nnthrsImn/budgeting-app) – Envelope-style budgeting system with custom UI  
+🔹 [Bug Reporter](https://github.com/nnthrsImn/bug-reporter) – Simple web-based issue tracker  
+
+---
+
+### 📫 Connect with Me  
+📧 **[Email Me](mailto:elmanannetheresep@gmail.com)**  
+🐙 **GitHub:** [@nnthrsImn](https://github.com/nnthrsImn)  
+💬 Open to remote collaborations and AI-driven web projects!
