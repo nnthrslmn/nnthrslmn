@@ -1,24 +1,25 @@
 ![banner](https://raw.githubusercontent.com/nnthrslmn/nnthrslmn/refs/heads/main/Untitled.gif)
 
+---
+
 Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning ideas into smart, useful, and beautifully designed applications.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
 ### 🧠 About Me  
 🌷 I bridge creativity and code — blending clean design with practical functionality.  
 💻 Currently mastering **Python** and building **AI-assisted web applications**.  
 ✨ Experienced in **HTML, CSS, JavaScript**, and front-end development.  
 🚀 Exploring backend systems and automation tools to enhance developer productivity.  
-🎨 I love crafting intuitive, visually appealing interfaces that make digital life easier.
+🎨 I love crafting intuitive, visually appealing interfaces that make digital life easier. 
 💬 Open to remote collaborations and AI-driven web projects!
 
 ---
 
-## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmanannetheresep@gmail.com)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -37,5 +38,10 @@ Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning i
 🔹 [Currency Converter](https://github.com/nnthrsImn/currency-converter) – Real-time conversion app using API integration  
 🔹 [Budgeting App](https://github.com/nnthrsImn/budgeting-app) – Envelope-style budgeting system with custom UI  
 🔹 [Bug Reporter](https://github.com/nnthrsImn/bug-reporter) – Simple web-based issue tracker  
+
+---
+
+## 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmanannetheresep@gmail.com)
 
 ---
