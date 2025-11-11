@@ -2,7 +2,7 @@
 
 ---
 
-_"Building smart apps that blend AI, design, and code."_  
+<p align="center"><b><i>"Building smart apps that blend AI, design, and code."</i></b></p> 
 
 ---
 
