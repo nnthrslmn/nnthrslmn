@@ -15,7 +15,7 @@ Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning i
 💻 Currently mastering **Python** and building **AI-assisted web applications**.  
 ✨ Experienced in **HTML, CSS, JavaScript**, and front-end development.  
 🚀 Exploring backend systems and automation tools to enhance developer productivity.  
-🎨 I love crafting intuitive, visually appealing interfaces that make digital life easier. 
+🎨 I love crafting intuitive, visually appealing interfaces that make digital life easier.  
 💬 Open to remote collaborations and AI-driven web projects!
 
 ---
