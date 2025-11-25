@@ -53,7 +53,6 @@ Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning i
 ---
 
 ### 📊 GitHub Stats
-![Anne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnthrslmn&show_icons=true&theme=rose_pine)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nnthrslmn&layout=compact&theme=rose_pine)
 
 ---
