@@ -12,7 +12,7 @@ Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning i
 
 ### 🧠 About Me  
 🌷 I bridge creativity and code — blending clean design with practical functionality.  
-💻 Currently mastering **Python** and building **AI-assisted web applications**.  
+💻 Currently mastering **Python**, **C#** and building **AI-assisted web applications**.  
 ✨ Experienced in **HTML, CSS, JavaScript**, and front-end development.  
 🚀 Exploring backend systems and automation tools to enhance developer productivity.  
 🎨 I love crafting intuitive, visually appealing interfaces that make digital life easier.  
@@ -47,6 +47,7 @@ Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning i
 
 ### 🌸 Currently Learning  
 - AI model integration (Python & JavaScript)
+- C#
 - Backend API development  
 - Building efficient full-stack workflows  
 
