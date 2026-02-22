@@ -54,11 +54,6 @@ Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning i
 
 ---
 
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nnthrslmn&layout=compact&theme=rose_pine)
-
----
-
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmanannetheresep@gmail.com)
 
