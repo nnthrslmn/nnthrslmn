@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/nnthrslmn/nnthrslmn/refs/heads/main/Untitled.gif)
+![banner](https://raw.githubusercontent.com/nnthrslmn/nnthrslmn/refs/heads/main/GitHub.gif)
 
 ---
 
