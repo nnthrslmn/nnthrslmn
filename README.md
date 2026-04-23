@@ -6,7 +6,7 @@
 
 ---
 
-Hi there! I’m **Anne**, an **AI Software Engineer** passionate about turning ideas into smart, useful, and beautifully designed applications.
+Hi there! I’m **Anne**, a **Web Developer/Designer | Software Engineer** passionate about turning ideas into smart, useful, and beautifully designed applications.
 
 ---
 
