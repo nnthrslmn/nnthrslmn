@@ -2,21 +2,20 @@
 
 ---
 
-<p align="center"><b><i>"Building smart apps that blend AI, design, and code."</i></b></p> 
+<p align="center"><b><i>"Learning, building, and growing one project at a time."</i></b></p> 
 
 ---
 
-Hi there! I’m **Anne**, a **Web Developer/Designer | Software Engineer** passionate about turning ideas into smart, useful, and beautifully designed applications.
+Hi there! I’m **Anne**, a **Web Developer | Graphic Designer | Digital Product Creator** who enjoys creating websites, digital products, and simple applications while continuously learning new technologies.
 
 ---
 
-### 🧠 About Me  
-🌷 I bridge creativity and code — blending clean design with practical functionality.  
-💻 Currently mastering **Python**, **C#** and building **AI-assisted web applications**.  
-✨ Experienced in **HTML, CSS, JavaScript**, and front-end development.  
+### 🧠 About Me   
+💻 Building projects with **HTML**, **CSS**, **JavaScript** and **Python**.  
+✨ Continuously learning programming, AI tools, and modern web development.  
 🚀 Exploring backend systems and automation tools to enhance developer productivity.  
-🎨 I love crafting intuitive, visually appealing interfaces that make digital life easier.  
-💬 Open to remote collaborations and AI-driven web projects!
+🎨 Exploring ways to combine creativity and technology through personal projects.  
+💬 Open to remote opportunities, collaborations, and learning from other developers.
 
 ---
 
@@ -28,12 +27,12 @@ Hi there! I’m **Anne**, a **Web Developer/Designer | Software Engineer** passi
 
 ---
 
-### 🧩 Tech Stack  
-**Languages:** Python, JavaScript, C (Arduino)  
-**Web:** HTML5, CSS3, Responsive Design  
-**AI & Automation:** GitHub Copilot, AI-assisted code generation  
+### 🧩 Tech Skills  
+**Languages:** HTML, CSS, JavaScript, Python  
+**Web Development:** Responsive Design, Front-End Development  
+**AI Tools:** GitHub Copilot, AI-assisted development tools  
 **Tools:** VS Code, Git, GitHub  
-**Soft Skills:** Problem-solving, creativity, adaptability, time management  
+**Design:** Adobe Express, Canva, GIMP, Digital Product Design, Graphic Design   
 
 ---
 
@@ -48,8 +47,7 @@ Hi there! I’m **Anne**, a **Web Developer/Designer | Software Engineer** passi
 
 ### 🌸 Currently Learning  
 - AI model integration (Python & JavaScript)
-- C#
-- Backend API development  
+- C# 
 - Building efficient full-stack workflows  
 
 ---
